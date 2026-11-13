@@ -1,0 +1,1 @@
+'''36. Write a program to check whether a person is eligible for a driving license.'''

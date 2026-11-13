@@ -1,0 +1,1 @@
+'''21. Write a program to find the smallest of three numbers.'''

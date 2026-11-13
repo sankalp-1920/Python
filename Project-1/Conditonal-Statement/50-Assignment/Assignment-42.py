@@ -1,0 +1,1 @@
+'''42. Write a program to perform calculator operations using match case.'''

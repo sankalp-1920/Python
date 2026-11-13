@@ -1,0 +1,1 @@
+'''32. Write a program to check whether a student is eligible for an exam (attendance + marks).'''

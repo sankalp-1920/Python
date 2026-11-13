@@ -1,0 +1,1 @@
+'''24. Write a program to check exam results (Distinction, First Class, Pass, Fail).'''

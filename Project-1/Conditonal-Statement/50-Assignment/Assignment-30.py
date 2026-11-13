@@ -1,0 +1,1 @@
+'''30. Write a program to check the type of number (single, double, or three digit)'''

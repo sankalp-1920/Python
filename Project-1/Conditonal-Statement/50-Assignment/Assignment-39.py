@@ -1,0 +1,1 @@
+'''39. Write a program to check whether a number is greater than 0 and less than 100.'''

@@ -1,0 +1,1 @@
+'''28. Write a program to calculate discounts based on total shopping amount'''

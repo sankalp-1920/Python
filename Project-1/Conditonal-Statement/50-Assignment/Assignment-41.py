@@ -1,0 +1,1 @@
+'''41. Write a program to print weekday name using match case.'''

@@ -1,0 +1,1 @@
+'''37. Write a program to check whether a number lies between 10 and 50.'''

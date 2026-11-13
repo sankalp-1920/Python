@@ -1,0 +1,1 @@
+'''35. Write a program to check whether a number is divisible by 3 and 5'''

@@ -1,0 +1,1 @@
+'''40. Write a program to check whether a password is valid using nested if.'''

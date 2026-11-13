@@ -1,0 +1,1 @@
+'''38. Write a program to check whether a student passed all subjects.'''

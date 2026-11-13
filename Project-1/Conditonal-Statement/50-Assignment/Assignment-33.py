@@ -1,0 +1,1 @@
+'''33. Write a program to check whether a person can apply for a loan.'''

@@ -1,0 +1,1 @@
+'''20. Write a program to check ticket price based on age.'''

@@ -1,0 +1,1 @@
+'''19. Write a program to print the day name based on day number (1–7).'''

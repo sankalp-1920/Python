@@ -1,0 +1,1 @@
+'''31. Write a program to check whether a number is positive and even using nested if.'''
