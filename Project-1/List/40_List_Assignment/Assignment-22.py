@@ -1,0 +1,1 @@
+'''22. Create a list and replace an element at a given index.'''

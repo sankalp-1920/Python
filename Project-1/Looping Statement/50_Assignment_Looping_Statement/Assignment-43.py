@@ -1,0 +1,1 @@
+'''.43. Calculate sum of cubes of first n numbers'''

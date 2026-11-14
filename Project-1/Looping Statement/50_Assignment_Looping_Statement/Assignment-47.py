@@ -1,0 +1,1 @@
+'''47. Find product of digits of a number.'''

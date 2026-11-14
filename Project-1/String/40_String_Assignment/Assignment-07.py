@@ -1,0 +1,1 @@
+'''7. Check whether a string ends with a given substring.'''

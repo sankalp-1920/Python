@@ -1,0 +1,1 @@
+'''36. Find sum of numbers entered by user until 0 is entered.'''

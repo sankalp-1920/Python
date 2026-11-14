@@ -1,0 +1,1 @@
+'''27. Check whether a word exists in a sentence.'''

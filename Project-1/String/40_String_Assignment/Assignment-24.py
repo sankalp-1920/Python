@@ -1,0 +1,1 @@
+'''24. Extract only digits from a string.'''

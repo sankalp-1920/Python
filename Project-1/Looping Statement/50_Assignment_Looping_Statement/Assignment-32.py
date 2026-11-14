@@ -1,0 +1,1 @@
+'''32. Calculate power of a number without using pow().'''

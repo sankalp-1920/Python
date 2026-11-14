@@ -1,0 +1,1 @@
+'''6. Calculate sum of first 10 natural numbers.'''

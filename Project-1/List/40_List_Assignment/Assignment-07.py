@@ -1,0 +1,1 @@
+'''7. Create a list and clear all elements using clear()'''

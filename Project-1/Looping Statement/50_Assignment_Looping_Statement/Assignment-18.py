@@ -1,0 +1,1 @@
+'''18. Print prime numbers between 1 and 50.'''

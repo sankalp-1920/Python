@@ -1,0 +1,1 @@
+'''48. Check whether number is strong number.'''

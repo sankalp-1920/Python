@@ -1,0 +1,1 @@
+'''16. Print numbers divisible by 5 between 1 and 100.'''

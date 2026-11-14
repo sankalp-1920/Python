@@ -1,0 +1,1 @@
+'''7. Calculate factorial of a number using for loop.'''

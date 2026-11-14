@@ -1,0 +1,1 @@
+'''18. Convert the first character of each word to uppercase.'''

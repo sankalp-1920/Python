@@ -1,0 +1,1 @@
+'''5. Print multiplication table of a given number.'''

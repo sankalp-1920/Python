@@ -1,0 +1,1 @@
+'''38. Find the shortest word in a sentence.'''

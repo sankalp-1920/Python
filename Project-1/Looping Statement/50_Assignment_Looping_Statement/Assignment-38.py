@@ -1,0 +1,1 @@
+'''38. Find smallest digit in a number.'''

@@ -1,0 +1,1 @@
+'''6. Check whether a string starts with a given substring.'''

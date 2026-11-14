@@ -1,0 +1,1 @@
+'''20. Print pattern of stars (triangle).'''

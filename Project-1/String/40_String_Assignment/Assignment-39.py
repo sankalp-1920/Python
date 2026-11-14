@@ -1,0 +1,1 @@
+'''39. Check whether a string is a valid identifier.'''

@@ -1,0 +1,1 @@
+'''31. Generate first n odd numbers.'''

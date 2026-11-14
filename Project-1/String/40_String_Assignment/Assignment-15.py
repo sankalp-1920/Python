@@ -1,0 +1,1 @@
+'''15. Check whether a string contains only alphabets.'''

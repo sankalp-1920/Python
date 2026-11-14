@@ -1,0 +1,1 @@
+'''9. Count how many times a specific element appears using count().'''

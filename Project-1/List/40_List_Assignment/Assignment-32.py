@@ -1,0 +1,1 @@
+'''32. Create a list and reverse it without using reverse() (use slicing).'''

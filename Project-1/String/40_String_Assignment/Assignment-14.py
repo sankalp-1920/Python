@@ -1,0 +1,1 @@
+'''14. Check whether a string is alphanumeric.'''

@@ -1,0 +1,1 @@
+'''36. Create a list and remove all odd numbers.'''

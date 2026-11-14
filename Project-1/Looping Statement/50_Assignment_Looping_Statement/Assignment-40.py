@@ -1,0 +1,1 @@
+'''40. Print numbers which are perfect squares between 1 and 100.'''

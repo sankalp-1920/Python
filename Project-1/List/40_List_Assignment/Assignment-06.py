@@ -1,0 +1,1 @@
+'''6. Remove an element from a specific index using pop(index).'''
