@@ -1,0 +1,1 @@
+'''20. Remove all occurrences of a given character from a string.'''

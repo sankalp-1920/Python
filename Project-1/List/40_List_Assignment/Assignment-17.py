@@ -1,0 +1,1 @@
+'''17. Create a list of mixed data types and display them.'''

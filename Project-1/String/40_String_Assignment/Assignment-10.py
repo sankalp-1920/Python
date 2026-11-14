@@ -1,0 +1,1 @@
+'''10. Find the index of a given character in a string.'''

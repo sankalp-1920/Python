@@ -1,0 +1,1 @@
+'''8. Print all characters of a string.'''

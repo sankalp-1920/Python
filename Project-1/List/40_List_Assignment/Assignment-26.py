@@ -1,0 +1,1 @@
+'''26. Create two lists and merge them into one.'''

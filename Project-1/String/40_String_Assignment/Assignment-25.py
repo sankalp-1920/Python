@@ -1,0 +1,1 @@
+'''25. Extract only alphabets from a string.'''

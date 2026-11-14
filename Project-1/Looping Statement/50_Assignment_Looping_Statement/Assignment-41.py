@@ -1,0 +1,1 @@
+'''41. Print numbers which are perfect cubes between 1 and 100'''

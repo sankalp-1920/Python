@@ -1,0 +1,1 @@
+'''24. Create a list and find the average of elements.'''

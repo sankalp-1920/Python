@@ -1,0 +1,1 @@
+'''37. Create a list and check palindrome list.'''

@@ -1,0 +1,1 @@
+'''42. Calculate sum of squares of first n numbers.'''

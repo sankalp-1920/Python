@@ -1,0 +1,1 @@
+'''25. Create a list and check if it is empty.'''

@@ -1,0 +1,1 @@
+'''4. Create a list and remove a specific element using remove().'''

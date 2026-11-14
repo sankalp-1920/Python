@@ -1,0 +1,1 @@
+'''10. Print cube of numbers from 1 to 10.'''

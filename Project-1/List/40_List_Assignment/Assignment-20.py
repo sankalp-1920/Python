@@ -1,0 +1,1 @@
+'''20. Create a list and slice the first 5 elements.'''

@@ -1,0 +1,1 @@
+'''29. Generate first n natural numbers using while loop.'''

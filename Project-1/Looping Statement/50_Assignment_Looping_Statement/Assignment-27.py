@@ -1,0 +1,1 @@
+'''27. Print all factors of a number'''

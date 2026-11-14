@@ -1,0 +1,1 @@
+'''38. Create a list and count total elements.'''

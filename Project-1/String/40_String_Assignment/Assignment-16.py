@@ -1,0 +1,1 @@
+'''16. Check whether a string contains only digits.'''

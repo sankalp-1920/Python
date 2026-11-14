@@ -1,0 +1,1 @@
+'''23. Create a list and find the sum of elements.'''

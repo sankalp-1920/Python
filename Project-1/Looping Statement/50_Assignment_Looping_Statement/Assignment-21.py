@@ -1,0 +1,1 @@
+'''21. Print pattern of numbers.'''

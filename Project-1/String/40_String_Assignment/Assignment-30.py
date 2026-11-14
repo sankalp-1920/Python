@@ -1,0 +1,1 @@
+'''30. Check whether a string is in title case.'''

@@ -1,0 +1,1 @@
+'''9. Print square of numbers from 1 to 10.'''

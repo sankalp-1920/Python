@@ -1,0 +1,1 @@
+'''30. Generate first n even numbers.'''

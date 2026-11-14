@@ -1,0 +1,1 @@
+'''12. Reverse a number using while loop.'''

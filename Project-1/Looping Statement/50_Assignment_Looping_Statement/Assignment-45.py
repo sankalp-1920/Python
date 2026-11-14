@@ -1,0 +1,1 @@
+'''45. Print numbers skipping multiples of 3'''

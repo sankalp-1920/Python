@@ -1,0 +1,1 @@
+'''22. Find sum of even digits in a number.'''

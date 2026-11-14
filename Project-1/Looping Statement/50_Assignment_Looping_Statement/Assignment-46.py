@@ -1,0 +1,1 @@
+'''46. Print first n multiples of a number.'''

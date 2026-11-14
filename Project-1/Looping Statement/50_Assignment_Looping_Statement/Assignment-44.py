@@ -1,0 +1,1 @@
+'''44. Print alternate characters of a string.'''

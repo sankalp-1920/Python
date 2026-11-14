@@ -1,0 +1,1 @@
+'''29. Create a list and delete an element using del keyword.'''
