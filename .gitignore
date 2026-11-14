@@ -1,1 +1,7 @@
+# Ignore Java files
+*.java
+
+# Ignore compiled Java files
+*.class
+
 Python-Notes.txt/python_pyspider.pdf 
